@@ -24,6 +24,7 @@ set(LLVM_LINK_COMPONENTS
   TransformUtils
   Vectorize
   Passes
+  BranchInstCount
   )
 
 add_llvm_tool(opt

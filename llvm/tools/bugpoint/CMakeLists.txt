@@ -20,6 +20,7 @@ set(LLVM_LINK_COMPONENTS
   Target
   TransformUtils
   Vectorize
+  BranchInstCount
   )
 
 add_llvm_tool(bugpoint

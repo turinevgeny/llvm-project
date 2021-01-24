@@ -1,3 +1,5 @@
+This repository is a fork of the LLVM repository (branch "release/11.x") with skeleton code for adding a simple branch instruction counting LLVM pass into the "opt" tool. The new pass is linked directly into the "opt" tool to support launches on Windows. Used for educational purposes only.
+
 # The LLVM Compiler Infrastructure
 
 This directory and its sub-directories contain source code for LLVM,
